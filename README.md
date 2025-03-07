@@ -139,7 +139,7 @@ p.note { display: none; }
 <h2><span class="yellow">街中の街路樹は熱帯らしくお花満開</span></h2>
 <a href="20250307_003.JPG" target="_blank"><img src="20250307_003.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">こちらはショッピングモール内の増加ですがよく出来ています</span></h2>
+<h2><span class="yellow">こちらはショッピングモール内の造花ですがよく出来ています</span></h2>
 <a href="20250307_011.JPG" target="_blank"><img src="20250307_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250307_012.JPG" target="_blank"><img src="20250307_012.JPG" alt="サンプル画像" width="900" /></a>
 
