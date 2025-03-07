@@ -179,7 +179,7 @@ p.note { display: none; }
 <h2><span class="yellow">野菜煮物のご飯丼、70バーツは約300円</span></h2>
 <a href="20250307_018.JPG" target="_blank"><img src="20250307_018.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">平日のバンコク中心部は、ほとんどがタイ人でした<br>画像のクリックでGoogleMapsに飛びます</span></h2>
+<h2><span class="yellow">平日のバンコク中心部は、ほとんどがタイ人でした<br>画像のクリックでGoogleMapsに飛びます・・・すぐ北隣が昨日行ったシーコンスクエア</span></h2>
 <a href="https://maps.app.goo.gl/K3AEhUfF7aGYCFFU8" target="_blank"><img src="20250307_019.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">西の空はちょっと焼けました、夕方5時前です</span></h2>
